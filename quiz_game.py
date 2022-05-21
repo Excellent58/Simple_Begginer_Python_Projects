@@ -1,6 +1,3 @@
-from tkinter.messagebox import YES
-
-
 print("welcome to quiz game!!!")
 
 play = input("Do you want to play: ").lower()
